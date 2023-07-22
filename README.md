@@ -5,3 +5,5 @@ Main objective of this repository is to make people aware of the government sche
 Due to lack of information people miss a chance to enjoy the benefits given by government 
 
 This website consists of schemes related to Agriculture and Education
+
+Made up of only html and css
